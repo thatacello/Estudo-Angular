@@ -34,11 +34,11 @@
         },
         {
             "id": 5,
-            "nome": "smartphone",
+            "nome": "webcam",
             "valor": 2000.00,
             "promocao": true,
             "valorPromo": 0,
-            "imagem": "smartphone.jpg"
+            "imagem": "webcam.jpg"
         }
     ]
 }
