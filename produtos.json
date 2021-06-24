@@ -29,7 +29,7 @@
             "nome": "laptop asus",
             "valor": 3000.00,
             "promocao": true,
-            "valorPromo": 0,
+            "valorPromo": 2200.00,
             "imagem": "laptop.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "nome": "webcam",
             "valor": 2000.00,
             "promocao": true,
-            "valorPromo": 0,
+            "valorPromo": 1550.00,
             "imagem": "webcam.jpg"
         }
     ]
